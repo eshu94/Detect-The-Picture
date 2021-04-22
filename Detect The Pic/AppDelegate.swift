@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Detect The Pic
 //
-//  Created by ESHITA on 02/03/20.
-//  Copyright © 2020 ESHITA. All rights reserved.
+//  Created by ESHITA on 09/11/19.
+//  Copyright © 2019 ESHITA. All rights reserved.
 //
 
 import UIKit
